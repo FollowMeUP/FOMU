@@ -1,0 +1,130 @@
+FollowMeUp (FOMU) ~ By Gabriel Podasca
+-Making crypto investing easier for everyone-
+
+
+
+“Every informed person needs to know about Bitcoin because it might be one of the world’s most important developments.” – Leon Louw, Nobel Peace Prize Nominee
+
+“I think the Internet is going to be one of the major forces for reducing the role of government. The one thing that’s missing, but that will soon be developed, is a reliable e-cash.” – Milton Friedman, Winner of Nobel Prize in Economics 
+
+“We are seeing more managed money and, to an extent, institutional money entering the [crypto] space. Anecdotally speaking, I know of many people who are working at hedge funds or other investment managers who are trading cryptocurrency. Personally, the question is, when do people start doing it with their firms and funds?”– Olaf Carlson-Wee, Head of Risk Coinbase
+
+“Money is a network of perception, in order to not become useless this perception needs to be distributed.”
+― Gun Gun Febrianza, Blockchain Architect
+
+
+
+The Problem
+
+The crypto market is a highly specialised market available & profitable only for the ones able to do meaningful research into the new projects while for the average person,it is full of scams and traps where new projects are pushed via bots on Social Media and profits are very unlikely.
+Left unsolved, the new investors will miss the NFT trend and the profits that could’ve helped them be more engaged in the Web3 world while allowing the few specialised elites to have all the benefits and riches.
+If solved, the crypto market will receive fresh liquidity while the new investors will get a fair chance to harvest the benefits of the new technology bringing us one step closer to a decentralised world where ordinary people will also have the financial solutions to gain wealth.
+
+The Solution
+
+FollowMeUp provides automated trading services based on your unique profile of risk, expected profits and budget.
+This will enable everyone to get access to a personalised experience in the crypto world where the algorithm filters the markets for you while you can enjoy the extra free time doing what matters for you.
+
+How it works
+
+Profitable wallets will be added to the algorithm by our community of bounty hunters or automatically by the algorithm itself. After each wallet is validated and bounty is paid, the wallet is then assigned to the proper category ( based on profitability, size, etc.) by the FollowMeUp algo.
+When a new investor joins the automatic trading service, they are asked to select their specific profile ( risk appetite, expected profitability, etc.) and they decide the amount to be invested & allocated amount of FOMU.  ( minimum 1000 FOMU need to be available for the service)
+When a new trade is executed on the validated wallets, FOMU checks for similar opportunities within the same collection of assets and provides possible options considering the characteristics of each investor profile.
+When a match is found, the trade is executed, the asset is transferred to the new owner and according to the investor profile, a selling price will be set on the marketplace at an amount that will satisfy the profit expected. (possibility to have a recommended target price as well but more data is needed)
+When the asset is sold at the expected price, the trade is successfully executed. If the procedure proves to be unsuccessful, the investor can manually sell the asset or wait for the followed wallet to sell it. ( we take no responsibility for trades manually closed )
+At the end of each sale the profits are allocated, fees are charged and the FOMU balance is burned accordingly, but, for the fully automated profiles, the profits are used to buy FOMU at desired rates and trading restarts with the new balances.
+For the dedicated investors we will have discounted fees if they decide to cash out all profits in FOMU.
+
+Here coooomes FOMU
+
+In order to use FollowMeUp’s services you will need to own a minimum balance of FOMU and burn it to convert the profits back into liquid tokens to ensure protection against inflation and ensure constant demand.
+The minimum balance needed for the automated trading is 1000 FOMU plus the amount you want to invest and you will have a base rate of 50% profits share( the profit is divided after the fees). The FOMU won’t be burned unless you are making profits as the burning rate is calculated as 1 FOMU burned per 1 $ of profit shared with us.
+The tiers of discounts for profit share are as follows:
+A: 0 to 2 499 FOMU: 50% performance fee + base rate burning
+B: 2 500 to 9 999 FOMU: 45% performance fee + base rate burning
+C: 10 000 to 49 999 FOMU: 40% performance fee + 25% discount on base rate burning
+D: 50 000 to 99 999 FOMU: 35% performance fee + 25% discount on base rate burning
+E: 100 000 to 249 999 FOMU: 30% performance fee + 25% discount on base rate burning
+F: 250 000 and more FOMU: 30% performance fee + 50% discount on base rate burning
+For the future we are looking to implement tokens with voting rights that would be provided as a bonus for bigger investments. (50 000$ or more)
+Staking options will be also available and according to the amount allocated each investor will receive a multiplier.( A * 1.0; B * 1.0; C * 1.5; D * 2.0; E * 3.0; F * 5.0) After the multiplier is added the return is calculated based as proportional part out of total of stacked amount as seen in the following example:
+Example:
+Investor A stacks 5 000 FOMU (*1.0 multiplier), Investor B stacks 20 000 FOMU(*1.5 multiplier) and investor C stacks 50 000 FOMU (*2.0 multiplier). The total pool is 100 000$.
+Total stacked= 1* investorA+1.5* investorB+2* investorC
+Total stacked= 1* 5 000 +1.5* 20 000 +2* 50 000
+Total stacked= 5 000 + 30 000 +100 000 = 135 000 FOMO
+As a result, the 100 000$ will be divided: 74.000$ to investor C, 22 300$ to investor B and 3 700$ to investor A.
+
+Disclaimer
+
+See => here(access required, file not finished anyway).
+
+
+
+
+
+Finances
+
+Funding for the pre-sale will be done from private investors with future steps being funded as results of the token sales alone.
+Funds raised from the ICO will be used: 40% or 25 000$ (whichever is bigger) will be allocated on development & Technology (10 000$ for web3 devs, 10 000$ for full stack devs and 5000$ for coordinator / PM), 20% Business & Partnerships (sorting out strategic partnerships, IB strategies, Bounties), 20% Marketing & PR, 10% will stay in a stable coin as emergency funds and 10% will be used for investor reward programs.
+Profits generated will be allocated to: profit pool (10-25%), research & development (20-25%), marketing & PR (10%), Community admin (10%), Business Intelligence & Partnerships (10%) and Investor Rewarding Promotions (10-20%). Amounts not allocated will be saved for a future insurance program and/or collateral if needed.
+
+Tokenomics: Category and uses
+
+We try to check all important boxes with FOMU in order to provide the flexibility that our investors need and want. As such we identified the following uses and advantages for FOMU:
+Payment token: FOMU will be used to pay the investment services either partially or fully at a discounted price. The usage of FOMU will only increase with the improvements provided in the accuracy of our product and the increase in user base.
+Utility token: FOMU will be used to pay for our services or to generate passive income from options such as stacking.
+Reward token: FOMU will be used to pay for the services provided by the bounty hunters, to pay prizes for future competitions and to pay different bonuses to our investors ( such as referral bonuses).
+Security Tokens: At a later stage FOMU will be also used to invest in our proprietary trading fund where investors will receive profits based on their size out of the fund.( an investor with 10% of the total fund will receive approx 10% of the profits generated and have 10% of voting rights regarding future direction of the fund)
+
+Tokenomics: Token Allocation and other cool stats
+
+
+Token Symbol: FOMU
+Total Active Supply: 250,000,000 FOMU, this is done to ensure an inflation proof environment for our investors.
+Hardcap: 50,000,000 FOMU. After Hardcap is reached the sales will be halted and only FOMU available will be the reward ones sold by bounty hunters and investors.
+Softcap: 2,000,000 FOMU. The Softcap ensures the minimum amount needed for full completion of the project.
+Initial Circulating Supply: 50,000,000 FOMU owned by the company and used for the ICO sale.
+After the Hardcap is filled, the Token Sales will be closed and only coins available will be the ones collected as reward. This will reward even more the bounty hunters and traders and guarantee a steady supply & demand.
+
+Scarcity and deflation
+
+As mentioned above, we are trying to provide as many solutions with minimum complexity for the investors.
+As many know already, scarcity is one of the main factors when comes to value of  assets and to ensure that FOMU gathers all that value we prepared some mechanisms:
+Burning: The amounts of FOMU used to pay for service will be permanently removed from circulation. This is done to increase demand for the token (thus increasing the value of remaining tokens) and to allow generation of new coins without inflationary pressures.
+Delayed distribution: the FOMU will be released in steps to ensure a stable price. After the Hardcap of 50 millions FOMU is reached, the token sale will stop until 5 million FOMU(10% of purchased tokens) will be burned. The only coins available to buy will be the coins earned as reward. After 10 million FOMU is burned, new token sales (25 million FOMU) will be available with a fixed starting price at 10% above prior price to ensure return opportunity for existing investors.
+Capped circulating tokens: 
+
+Road Map
+
+Estimations: time of delivery Dec 2022
+
+Who is Working on the Project
+
+Gabriel Podasca - Founder
+Some info about me and my background, for now available on LInkedIN, here.
+
+=>Your name could be here<=  -Someone looking for a challenge-
+If you like what you see and you think you can bring value to the project, please contact me on LinkedIN (here) or by email : followmeup42@protonmail.com
+
+Charities
+
+1% of all profits will be sent directly to https://www.charitywater.org/
+1.5% will be allocated in a managed fund from which every quarter the profits will be sent to charities picked by the community. Only the profits will be sent to charities in order to ensure some autonomy of the fund and ongoing charity actions.
+Main fields of charity will be oriented to creating independence and self sufficiency in the communities where it is needed most. We believe in giving tools rather than giving just money so we will focus on skill acquisition, training and education of the people. Of course, this is not something doable when there are more urgent needs such as thirst or hunger, thus the roadmap will be: provide minimum necessities ( water, food, shelter, healthcare, electricity and internet) => provide educator/mentors to teach in the native language => provide the framework for production of goods / value => help the community to integrate their product in the marketplace => teach the newly created entrepreneurs on how to get feedback from the market and how to adapt to market conditions.
+We will try to expand geographically in order to connect each community in a smooth way that will enhance cooperation and local production.
+
+Conclusions
+
+If you decided to be part of a great project where you got the chance to ride the crypto trends on auto mode, FOMU is the best place for you. FOMU is designed to be fully automated while providing you all the information needed, all this combined with our 0 conflict of interest business plan and inflation proof economics will provide you one of the best crypto experiences.
+
+References
+Guides for writing whitepaper:
+https://brightnode.io/how-to-write-a-whitepaper-for-a-crypto-project/
+https://cointelegraph.com/ico-101/what-is-a-white-paper-and-how-to-write-it%20
+https://medium.com/the-capital/how-to-write-a-white-paper-for-your-blockchain-project-a-complete-guide-660ca52372a2
+Token Categories: https://www.softwaretestinghelp.com/types-of-cryptocurrency/
+Soft & Hard cap: https://news.coinsquare.com/digital-currency/initial-coin-offering-soft-cap-hard-cap/
+
+
+ 
